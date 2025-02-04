@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Battala Ravi Krishna 👋
 
 🌟 I'm a passionate Developer interested in backend and microservices.
 
