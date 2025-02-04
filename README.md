@@ -17,12 +17,11 @@
  
 💡 **GitHub Streak**: 
 <br>
-  <img src="https://streak-stats.demolab.com?user=ravikrishnabattala&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph" /></a>
 📌 **Most Used Languages**:
 <br>
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&theme=nightowl" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <div>
 </div>
