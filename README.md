@@ -17,7 +17,7 @@
  
 💡 **GitHub Streak**: 
 <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph" /></a>
+<img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 📌 **Most Used Languages**:
 <br>
 <div align="center">
