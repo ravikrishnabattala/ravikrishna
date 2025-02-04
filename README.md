@@ -14,10 +14,11 @@
 💡 **GitHub Stats**:
 <br>
   <img src="https://github-readme-stats-steel-tau-61.vercel.app/api?username=ravikrishnabattala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"  />
- 
-💡 **GitHub Streak**: 
+
+ 💡 **GitHub Streak**: 
 <br>
-<img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  
 📌 **Most Used Languages**:
 <br>
 <div align="center">
