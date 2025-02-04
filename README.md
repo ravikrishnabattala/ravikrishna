@@ -22,7 +22,7 @@
 📌 **Most Used Languages**:
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-wine.vercel.app?user=ravikrishnabattala&theme=nightowl" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <div>
 </div>
