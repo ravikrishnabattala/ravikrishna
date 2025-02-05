@@ -22,7 +22,7 @@
 📌 **Most Used Languages**:
 <br>
 <div align="center">
- <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&include_all_commits=true" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&include_all_commits=true&cache_seconds=86400&token=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" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats-steel-tau-61.vercel.app/api/top-langs?username=ravikrishnabattala&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <div>
 </div>
